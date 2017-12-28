@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               湛兮的树洞
+tagline:             '左图右史，邺架巍巍，致知穷理，学古探微。'
+description:         '这里是湛兮的树洞，记录湛兮的生活和技术相关的文章'
+url:                 http://localhost:4000
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              湛兮
+  url:               https://github.com/oxwei
+  email:             oxwei@outlook.com
+
+plugins:
+  - jekyll-paginate
