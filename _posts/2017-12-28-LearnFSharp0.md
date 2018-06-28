@@ -23,9 +23,9 @@ F# 大体而言便是如此了。
 2. 点击 **修改**
 3. 在 **.NET 桌面开发中**的**摘要-可选**中选择 **F# 桌面语言支持**
 
-您如果想打开F#的REPL（读取、计算、打印、循环），也便是 **F# Interactive**。很简单，打开 Visual Studio，点击**视图-其他窗口-F# Interactive** 便可，再者可以使用快捷键<kbd>Ctrl+Alt+F</kbd>打开。
+您如果想打开F#的REPL（读取、计算、打印、循环），也便是 **F# Interactive**。很简单，打开 Visual Studio，点击**视图-其他窗口-F# Interactive** 便可，再者可以使用快捷键 <kbd>Ctrl+Alt+F</kbd> 打开。
 
-同时您也可以使用.NET Core中的F#，可以参考[微软的这篇文档](https://docs.microsoft.com/zh-cn/dotnet/fsharp/get-started/get-started-command-line)
+同时您也可以使用 .NET Core 中的 F#，可以参考[微软的这篇文档](https://docs.microsoft.com/zh-cn/dotnet/fsharp/get-started/get-started-command-line)
 
 您还可以试试 [Try F#](http://www.tryfsharp.org/)。用它来进行练手相当合适。
 # 如何更好的拓展学习
