@@ -11,3 +11,5 @@ title: 友情链接
 [Glavo](http://www.glavo.org/)
 
 [KirCute](https://kircute.github.io/)
+
+[SouthMorn](https://southmorn.com)
