@@ -8,7 +8,7 @@ title:               湛兮的树洞
 tagline:             '左图右史，邺架巍巍，致知穷理，学古探微。'
 description:         '这里是湛兮的树洞，记录湛兮的生活和技术相关的文章。'
 url:                 https://oxwei.cn
-baseurl:             ''
+baseurl:             https://oxwei.cn
 paginate:            5
 excerpt_separator:   <!--more-->
 
