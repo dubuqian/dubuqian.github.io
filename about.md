@@ -19,6 +19,8 @@ title: 关于
 喜欢作曲和绘画。
 
 在网上通常使用"zhx-zhxw", “湛兮”，“湛兮zhx” 为用户名进行活动。
+## 勋章
+![Codewars](https://www.codewars.com/users/zhx-zhxw/badges/large)
 ## 关于湛兮这个名字的由来
 来自《道德经》中的
 
