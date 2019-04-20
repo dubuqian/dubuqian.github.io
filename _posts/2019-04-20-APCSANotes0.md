@@ -13,9 +13,9 @@ title: AP 计算机科学 A 考试的笔记 0
 # 正文
 以下开始正文。
 ## Introduction
-AP Computer Science exam is a tree-hour **written** exam. **No books, calculators, or computers are allowed!** this exam consists of two parts that have equal weight:
+AP Computer Science exam is a tree-hour **written** exam. **No books, calculators, or computers are allowed!** The programming language for AP exam is Java. This exam consists of two parts that have equal weight:
 
-* Section I: 40 multiple-choice questions in 1 hour and 15 minutes. The programming language for AP exam is Java.
+* Section I: 40 multiple-choice questions in 1 hour and 15 minutes. 
 
 * Section II: 4 free-response questions in 1 hour and 45 minutes
 
