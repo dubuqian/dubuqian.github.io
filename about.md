@@ -18,33 +18,23 @@ title: 关于
 
 喜欢作曲和绘画。
 
-在网上通常使用"zhx-zhxw", “湛兮”，“湛兮zhx” 为用户名进行活动。
-## 勋章
-![Codewars](https://www.codewars.com/users/zhx-zhxw/badges/large)
-## 关于湛兮这个名字的由来
-来自《道德经》中的
+在网上通常使用"dubuqian", “独不迁” 为用户名进行活动。
+## 关于独不迁这个名字的由来
+这是因为我想去一个有一点霹雳布袋戏感觉的名字。名字的来源是《楚辞·九章·橘颂》中的
 
->道冲，而用之或不盈，渊兮似万物之宗。挫其锐，解其纷，和其光，同其尘。湛兮似或存。吾不知谁之子，象帝之先。
- 
-我希望自己成为一个干净的人，同时和我的名字中的两个字成谐音。
-## 关于zhx-zhxw这个名字的由来
-zhx 代表湛兮（ZHan Xi）,zhxw 来自我的本名。
+> 独立不迁，岂不可喜兮。
+
+我希望我能成为一个能够独立思考，不被“牵着鼻子走的人”，所以取了这个名字。
 ## 联系
 您能在很多地方看见我的身影，目前主要出没在以下地点：
 
 [知乎](https://www.zhihu.com/people/cleanxd/activities)
 
-[GitHub](https://github.com/zhx-zhxw)
+[GitHub](https://github.com/dubuqian)
 
 同时你也可以通过我的邮箱或者 Skype 找到我：
 
-[zhx-zhxw@outlook.com](mailto:zhx-zhxw@outlook.com)
-
-如果您使用 QQ 或者微信，您也可以通过这两种方法找到我:
-
-QQ号：1823999082
-
-喜爱交友。
+[dubuqian@outlook.com](mailto:dubuqian@outlook.com)
 # 关于这个博客
 除非特别声明，所有文章采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
 ## 关于湛兮的树洞这个名字
