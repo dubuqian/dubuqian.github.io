@@ -82,11 +82,11 @@ public class FirstProg // note the file name is FirstProg.java
 #### Javadoc Comments
 The Javadoc comments `@param`, `@return` and `@throws` are part of the AP subset.
 
-`@param`: remind you what varibles will be placed in paramenter list.
+`@param`: mark what varibles will be placed in paramenter list.
 
-`@return`: remind you what things(such as a varible, a numbers or a string) will be returned.
+`@return`: mark what things(such as a varible, a numbers or a string) will be returned.
 
-`@throws`: remind you if satisfy some condition, what error would throw. 
+`@throws`: mark if this method satisfy some condition, what error would throw. 
 
 # 后记
 本文先到这里结束了，很感谢各位的阅读。这次的笔记个人感觉过于冗长了，几乎抄了半篇书，在之后的笔记记录中我会尝试精简自己的笔记。因为我的英语水平不高，所以如果有单词拼写或者语法错误，欢迎大家联系我，我会及时修改。感谢大家的斧正。
