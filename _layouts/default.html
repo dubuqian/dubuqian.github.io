@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="zh-cn">
 
   {% include head.html %}
 
   <body>
-
+    <script>daovoice('init', {
+              app_id: "05e5c5b5"
+            });
+            daovoice('update');
+      </script>
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
