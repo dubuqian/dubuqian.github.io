@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               独不迁的树洞
-tagline:             '左图右史，邺架巍巍，致知穷理，学古探微。'
-description:         '这里是独不迁的树洞，记录独不迁的生活和技术相关的文章。'
+title:               秋橘斋
+tagline:             '东海广且深，由卑下百川。'
+description:         '这里是秋橘斋，记录独不迁的文字。'
 url:                 https://dubuqian.cn
 baseurl:             ''
 paginate:            5
@@ -17,7 +17,7 @@ excerpt_separator:   <!--more-->
 author:
   name:              独不迁
   url:               https://dubuqian.cn
-  email:             dubuqian@outlook.cn
+  email:             dubuqian@outlook.com
 
 plugins:
   - jekyll-paginate
