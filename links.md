@@ -12,4 +12,4 @@ title: 友情链接
 
 [KirCute](https://kircute.github.io/)
 
-[SouthMorn](https://southmorn.org)
+[SouthMorn](https://sthmo.org)
