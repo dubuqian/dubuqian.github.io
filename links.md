@@ -13,3 +13,5 @@ title: 友情链接
 [KirCute](https://kircute.github.io/)
 
 [SouthMorn](https://sthmo.org)
+
+[雪千渔](http://www.imxqy.com/)
