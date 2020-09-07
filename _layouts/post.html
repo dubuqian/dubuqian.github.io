@@ -7,6 +7,27 @@ layout: default
   <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
   {{ content }}
 </div>
+<div class="share">
+  <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=72627b27-b6ce-4e53-84b6-4eb14e3a0e62&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+</div>
+<div class="comment">
+  <div id="gitalk-container">
+    <script>
+      var gitalk = new Gitalk({
+        clientID: '63cbf00b99995136ca4d',
+        clientSecret: 'a7cab544d7ea07ecd823b16d043f413b9bad83ec',
+        repo: 'dubuqian.github.io',
+        owner: 'dubuqian',
+        admin: ['dubuqian'],
+        id: location.pathname,      // Ensure uniqueness and length less than 50
+        distractionFreeMode: true  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  </div>
+</div>
 <div class="related">
   <h2>最近文章</h2>
   <ul class="related-posts">
