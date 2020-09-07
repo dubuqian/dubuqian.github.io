@@ -6,16 +6,6 @@ title: 友情链接
 
 [千里冰封ice1000](http://ice1000.org/)
 
-[Ray Eldath](http://ray-eldath.tech/)
-
-[Glavo](http://www.glavo.org/)
-
-[KirCute](https://kircute.github.io/)
-
-[SouthMorn](https://sthmo.org/)
+[Ray Eldath](https://ray-eldath.me/)
 
 [雪千渔](http://www.imxqy.com/)
-
-[Indivn](https://goefang.github.io/)
-
-[Ray Eldth](https://ray-eldath.me/)
