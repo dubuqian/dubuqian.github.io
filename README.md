@@ -6,7 +6,7 @@ Domain/域名: https://dubuqian.cn
 
 # 添加友链
 
-请在 `_data/links/yml` 中，按如下格式添加自己的网页：
+请在 `_data/links.yml` 中，按如下格式添加自己的网页：
 
 ```ymal
 ...
