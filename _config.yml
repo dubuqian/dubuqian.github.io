@@ -4,14 +4,13 @@
 permalink:           pretty
 
 # Setup
-title:               秋橘斋
-tagline:             '东海广且深，由卑下百川。'
+title:               独不迁的秋橘斋
+tagline:             '忘却是自由的一种形式。'
 description:         '这里是秋橘斋，记录独不迁的文字。'
 url:                 https://dubuqian.cn
 baseurl:             ''
-paginate:            5
+paginate:            10
 excerpt_separator:   <!--more-->
-
 
 # About/contact
 author:
