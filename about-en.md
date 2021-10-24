@@ -12,7 +12,7 @@ I am Du Buqian.
 B.S. in Computer Science Freshman at The University of New South Wales Sydney.
 
 ## About this blog
-The original text is from *Chuci Jiuzhang Jyucong*, which is an ancient Chinese poem.
+The original text is from *Chuci Jiuzhang Jyusong*, which is an ancient Chinese poem.
 
 
 ## contact
@@ -28,7 +28,7 @@ or you can send an email to me：
 
 (academic questions only)
 
-[xiwei.zhao@student.unsw.edu.au](mailto:xiwei.zhap@student.unsw.edu.au)
+[xiwei.zhao@student.unsw.edu.au](mailto:xiwei.zhao@student.unsw.edu.au)
 
 # Copyright
 
