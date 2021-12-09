@@ -19,6 +19,8 @@ Textbook: The Structure and Interpretation of Computer Programs, MIT Press
 
 # Slides
 
+[Lecture 1: Introduction & A Swift and Brutal Introduction to Racket](/courses/static/Lecture-1-Introduction.pdf)
+
 # Lecture Notes
 
 # Assignments
