@@ -34,5 +34,5 @@ or you can send an email to me：
 
 All of the passages from this website are followed by the license of [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## Follow my Blog
+## Subscribe my Blog
 You can get the latest articles by [RSS](/atom.xml).
