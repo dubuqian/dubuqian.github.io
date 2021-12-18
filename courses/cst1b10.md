@@ -23,7 +23,7 @@ title: 计算机程序的构造和解释
 
 # 笔记
 
-[第一节：导论与糙快猛 Racket 入门](/courses/lecture-notes/cst1b10/lecture-1.md) （简体中文）
+[第一节：导论与糙快猛 Racket 入门](/courses/lecture-notes/cst1b10/lecture-1) （简体中文）
 
 # 作业
 
