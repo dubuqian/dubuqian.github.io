@@ -19,9 +19,11 @@ title: 计算机程序的构造和解释
 
 # 幻灯片
 
-[Lecture 1: Introduction & A Swift and Brutal Introduction to Racket](/courses/static/Lecture-1-Introduction.pdf)
+[Lecture 1: Introduction & A Swift and Brutal Introduction to Racket](/courses/static/slides/cst1b10/Lecture-1-Introduction.pdf) (English)
 
 # 笔记
+
+[第一节：导论与糙快猛 Racket 入门](/courses/lecture-notes/cst1b10/lecture-1.md) （简体中文）
 
 # 作业
 
