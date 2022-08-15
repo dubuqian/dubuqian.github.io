@@ -6,13 +6,14 @@ title: About
 [Chinese Version](/about)
 
 # About me
+Hi there,
 
 I am Du Buqian.
 
-B.S. in Computer Science Freshman at The University of New South Wales Sydney.
+B.S. in Computer Science Freshman at The University of New South Wales.
 
 ## About this blog
-The original text is from *Chuci Jiuzhang Jyusong*, which is an ancient Chinese poem.
+The original text of the title of my Blog is from *Chuci Jiuzhang Jyusong*.
 
 
 ## contact
