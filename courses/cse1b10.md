@@ -1,10 +1,7 @@
 ---
-layout: page
 title: 计算机程序的构造和解释
+layout: page
 ---
-
-[English Version](/courses/en/cst1b10)
-
 # 基本信息
 
 名称：计算机程序的构造和解释
