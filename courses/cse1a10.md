@@ -8,7 +8,7 @@ layout: page
 ## 课程目录
 # 幻灯片
 # 笔记
-[第 0 章第 0 节：课程简介和 Linux 与 Shell 入门](/courses/static/lecture-notes/cse1a10/ch0-1-intro-and-shell) （简体中文）
+[第 0 章：课程简介和 Linux 与 Shell 入门](/courses/static/lecture-notes/cse1a10/ch0-1-intro-and-shell) （简体中文）
 
 # 作业
 
