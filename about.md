@@ -25,10 +25,6 @@ title: 关于
 
 [dubuqian@outlook.com](mailto:dubuqian@outlook.com)
 
-如果是相关学术问题想要与我讨论，请联系：
-
-[xiwei.zhao@student.unsw.edu.au](mailto:xiwei.zhao@student.unsw.edu.au)
-
 # 关于这个博客
 除非特别声明，所有文章采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
