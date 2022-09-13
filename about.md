@@ -21,7 +21,7 @@ title: 关于
 
 同时你也可以通过我的邮箱找到我：
 
-[dubuqian@outlook.com](mailto:dubuqian@outlook.com)
+[dubuqian@proton.me](mailto:dubuqian@proton.me)
 
 # 关于这个博客
 除非特别声明，所有文章采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
